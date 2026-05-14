@@ -1,0 +1,8 @@
+=LICENSE=
+BIOS +System Disk For floppy disk 
+run bios this in qemu bios(ver beta/pre)
+For (VirtualBox/Qemu/VMware/Bochs/Hyper-V/UTM/Gnome Boxes/Limbo/UTM)
+Ac1X99 ORG 
+Web git https://github.com/fajerakd-r212/BIOS-BiOS-Free-for-Operating-System
+Dynamicxes BIOS Mode real pc/computer/laptop
+Last 10/05/2026
